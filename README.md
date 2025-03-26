@@ -78,6 +78,8 @@ The dataset was split into `80-20` train-test split, and the following models we
 - Used `accuracy_score`, `confusion_matrix`, `classification_report`, and `roc_auc_score` for performance evaluation.
 - Plotted ROC curves for model comparison.
 - Conducted cross-validation to validate generalization performance.
+- 
+![Screenshot 2025-03-26 234404](https://github.com/user-attachments/assets/bf00a943-2605-42d0-982e-03f035f9b178)
 
 ## Conclusion
 The Diabetes Prediction project successfully analyzes and classifies patients as diabetic or non-diabetic using multiple machine learning models. The best-performing model can be chosen based on accuracy and ROC analysis. Further improvements can be made by hyperparameter tuning and using deep learning techniques.
